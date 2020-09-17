@@ -1,4 +1,4 @@
-#Features
+##Features
 Tic Tac Toe is based on the tutorials section specified in Reactjs official website. The tutorial also provides for assignment.
 
 1. Display the location for each move in the format (col, row) in the move history list.
@@ -6,6 +6,8 @@ Tic Tac Toe is based on the tutorials section specified in Reactjs official webs
 3. Rewrite Board to use two loops to make the squares instead of hardcoding them.
 4. When someone wins, highlight the three squares that caused the win.
 5. When no one wins, display a message about the result being a draw.
+
+It has been built using Tailwind CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

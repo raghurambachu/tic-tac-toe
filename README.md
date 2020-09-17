@@ -1,4 +1,5 @@
-##Features
+## Features
+
 Tic Tac Toe is based on the tutorials section specified in Reactjs official website. The tutorial also provides for assignment.
 
 1. Display the location for each move in the format (col, row) in the move history list.
